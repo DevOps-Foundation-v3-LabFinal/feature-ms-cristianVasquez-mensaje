@@ -3,8 +3,9 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-trigger:
-- feature-ms-cristianVasquez-mensaje
+
+#trigger:
+#- feature-ms-cristianVasquez-mensaje
 
 pool:
   vmImage: ubuntu-latest
